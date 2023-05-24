@@ -1,4 +1,7 @@
 body {
-    background-color: tan 
-         <img src="https://www.thisiswhyimbroke.com/pug-black-suit/" alt="pug in suit">
-}
+    justify-content: center;
+    background: url(..//Website/images/Background.jfif) no-repeat;
+    /*background-color: #daa96c;*/
+    background-size: cover;
+    background-position: center;
+  }
